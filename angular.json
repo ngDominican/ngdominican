@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ngdominican": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngdominican"
+    }
+  },
+  "defaultProject": "ngdominican",
+  "cli": {
+    "analytics": "8216fcc1-9e7a-4a16-b41a-ffb9635c9a5d"
+  }
 }
